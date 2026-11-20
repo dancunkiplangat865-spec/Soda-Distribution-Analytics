@@ -43,3 +43,6 @@ The Excel workbook is available in this repository:
 Dancun Kiplangat
 
 GitHub: https://github.com/dancunkiplangat865-spec
+## Original Excel Workbook
+
+[Download the Original Excel Workbook](https://github.com/dancunkiplangat865-spec/Soda-Distribution-Analytics/raw/refs/heads/main/Soda_Distribution_Analytics.xlsx)
